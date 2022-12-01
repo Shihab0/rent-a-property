@@ -9,7 +9,7 @@ const Navbar = () => {
             href="/"
             className="btn btn-ghost uppercase font-bold font-mono text-xl"
           >
-            E-Rent
+            Estatery
           </a>
         </div>
         <div className="flex-none">
